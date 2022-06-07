@@ -1,5 +1,5 @@
 [Baixando o Git:](https://git-scm.com/downloads)
 
-- Git Bash dentro do repositorio que vai colar;
-- git clone > colar o link do reposit�rio;
+- Git Bash dentro do repositório que vai colar;
+- git clone :arrow_right: colar o link do repositório;
 

@@ -1,5 +1,51 @@
+### Olá Dev! :alien:
+
+Aqui você vai acompanhar um pouco comigo o meu progresso no Bootcamp da Dio. A medida em que eu for evoluindo, isso aqui evuluirá também. Sou novo na área e se tiver alguma dica ou sugestão em meus projetos, serão muito bem vidas!
+
+
+
+:arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward::arrow_forward:
+
+
+
+## Curso: Geração Tech Unimed-BH | Fullstack
+
+[Dio.:](https://web.dio.me/)
+
+#### - Modulo 0
+
+- Boas-Vindas: Conheça as Oportunidades da DIO
+
+- Seja Protagonista Neste Bootcamp
+
+- Boas-vindas ao Bootcamp: Geração Tech Unimed BH | Fullstack
+
+  Live: [Aula Inaugural - Geração Tech Unimed-BH | Fullstack](https://youtu.be/HuXaXzOxE7o)
+
+#### - Modulo I - Principios de Desenvolvimento de Sofware
+
+- ##### Introdução à Programação e Pensamento Computacional
+
+- ##### Introdução ao Git e ao GitHub
+
+- ##### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+  
+
+### Parei por aqui, ja que eu volto! :alien:
+
+
+
+## Dicas for me:
+
 [Baixando o Git:](https://git-scm.com/downloads)
 
-- Git Bash dentro do repositório que vai colar;
+- Criar repositório da forma que achar melhor;
+- Com botão esquerdo do mouse: Git Bash Here - dentro do repositório que vai colar;
 - git clone :arrow_right: colar o link do repositório;
+- git status - Ver status 
+- git add . ou git add -A - Adiciona a pasta git
+- git commit -m " + mensagem"  - Eu commito
+- git satus - Eu vou confirmar
+- git push origin main - Envio para o GitHub
 
